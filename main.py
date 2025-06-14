@@ -1,5 +1,3 @@
-from keep_alive import keep_alive
-keep_alive()
 from telethon import TelegramClient
 import asyncio
 import os
